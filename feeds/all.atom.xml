@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>twrl</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-12-05T12:38:00+08:00</updated><entry><title>我第一篇github上的博客</title><link href="/wo-di-yi-pian-githubshang-de-bo-ke.html" rel="alternate"></link><published>2015-12-05T12:38:00+08:00</published><author><name>suleyman</name></author><id>tag:,2015-12-05:wo-di-yi-pian-githubshang-de-bo-ke.html</id><summary type="html">&lt;h1&gt;这是我第一篇github上的博客&lt;/h1&gt;
+&lt;h5&gt;用以练手，细心学习&lt;/h5&gt;
+&lt;p&gt;昨晚搞了一晚上，我的github主页还是只显示：Hello Word。无奈，今早赖床一早上，中午起来继续研究，找出了一些错误操作，也找到了上传方法，就差它成功了。&lt;/p&gt;
+&lt;p&gt;我尽力让这些文字今天就躺在github主页里&lt;/p&gt;</summary><category term="1，2"></category></entry></feed>
