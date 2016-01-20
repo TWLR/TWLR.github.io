@@ -1,13 +1,13 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-#permalink:           pretty
-#relative_permalinks: true
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               渔歌唱晚
+tagline:             相忘于江湖
+url:                 http://www.twlr.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Suleyman Na
+  url:               https://twitter.com/suleymanna1
+  email:             suleyman.na@hotmail.com
 
 # Custom vars
 version:             2.0.0
