@@ -2,7 +2,8 @@
 
 layout: post
 title:  jekyll的学习
+tag:    jekyll
 date:   2016-01-21 16:25:25 +0800
 
 ---
-jekyll的官方文档为英文，看起来有些吃力，幸好发现有中文的翻译在跟进：http://jekyllcn.com/
+jekyll的官方文档为英文，看起来有些吃力，幸好发现有中文的翻译在跟进：[jekyll中国](http://jekyllcn.com/)
