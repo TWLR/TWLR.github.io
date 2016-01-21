@@ -1,26 +1,55 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# User Settings | Edit these according to your site
 
-# Site settings
-title: Princess Diaries
-email: your-email@domain.com
+title: Chaplin
+email: your@email.com
+author: Charlie Chaplin
+
 description: > # this means to ignore newlines until "baseurl:"
-    This is just another Jekyll theme.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kawabangga.com" # the base hostname & protocol for your site
-facebook: https://www.facebook.com/profile.php?id=100008578420735
-github:  https://github.com/laixintao
-twitter: https://twitter.com/SinpeachLai
+  Chaplin is a minimalistic, mobile friendly theme for Jekyll.
+  The Documentation for it is available on this website itself. 
+  You can check out the source on <a href="http://github.com/bk2dcradle/Chaplin" class="deactivate-link"><span> GitHub </span></a>
 
-# Build settings
+url: "http://bk2dcradle.gitub.io" # the base hostname & protocol for your site
+baseurl: "/Chaplin" # the subpath of your site, e.g. /blog
+twitter_username: AnkitSultana
+github_username:  bk2dcradle
+
+permalink:          /:year/:title.html
+
+paginate: 4
+paginate_path: "/page/:num"
+comments: true
+
+heading_font: Lobster 
+about_footer: true
+short_bio: >
+    A day without laughter is a day wasted.
+profile_picture: http://img3.rnkr-static.com/list_img/11570/111570/C300/movies-and-films-directed-by-charlie-chaplin-u4.jpg
+
+google_analytics: true
+tracking_id: # Your google analytics tracking id
+
+# Build settings | Do not edit anything below this
 markdown: kramdown
 
-paginate: 3
-paginate_path: "page:num"
+gems:
+  - jekyll-paginate
 
+sass:
+  style:            compressed
+  sass_dir:         _sass
 
-gems: [jekyll-paginate] 
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
