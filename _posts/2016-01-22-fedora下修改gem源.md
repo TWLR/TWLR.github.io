@@ -2,7 +2,7 @@
 layout: post
 title: "fedora下修改gem源"
 date: 2016-1-22 12:39
-tags: jekyll gem fedora
+tags: jekyll  gem  fedora
 
 ---
 1. 查看gem当前源：`gem sources`
