@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon-email.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <path
+       d="m 16.018786,1038.3026 c 0,0.5607 0.09541,1.4079 -0.287992,1.8491 -0.334791,0.3862 -1.37696,0.8062 -1.871946,1.0446 0,0 -3.779887,1.867 -3.779887,1.867 -0.6479817,0.3203 -1.4147587,0.7972 -2.1599383,0.6799 -0.6677802,-0.1046 -3.5494957,-1.5449 -4.3198731,-1.9257 -0.7145792,-0.3507 -3.07070921,-1.2707 -3.41629929,-1.8045 -0.24659273,-0.3827 -0.18359432214,-1.2477 -0.18359432214,-1.7104 0,0 16.01953001214,0 16.01953001214,0 z m -10.2596995,6.9959 c 0,0 2.5199268,0.9948 2.5199268,0.9948 0,0 2.3399327,-1.0055 2.3399327,-1.0055 0,0 5.39984,-2.5359 5.39984,-2.5359 0,0 0,7.647 0,7.647 0,0 -12.0596472,0 -12.0596472,0 0,0 -2.6693211,0 -2.6693211,0 0,0 -1.1141673,-0.3078 -1.1141673,-0.3078 0,0 -0.17639441214,-1.2885 -0.17639441214,-1.2885 0,0 0,-6.0507 0,-6.0507 0,0 5.75983051214,2.5466 5.75983051214,2.5466 z"
+       id="选区"
+       inkscape:connector-curvature="0"
+       style="fill:#828282;fill-opacity:1;stroke:none;stroke-width:0.17665574" />
+  </g>
+</svg>
